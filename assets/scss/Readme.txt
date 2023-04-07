@@ -1,1 +1,1 @@
-The .scss (Sass) files are only available
+The .scss (Sass) files are not available
