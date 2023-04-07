@@ -1,1 +1,1 @@
-project or food template
+project for food template
